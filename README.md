@@ -9,13 +9,8 @@
 
  <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
 
-![Weekly-Image-Announcement-Dagadusheth_Desktop](https://github.com/itzsandeepshrma/itzsandeepshrma/assets/144663674/e1838c95-9e97-4d0e-8498-322fdc45c086)
+![20231117_123348](https://github.com/itzsandeepshrma/itzsandeepshrma/assets/144663674/bcf5681e-35f2-426d-9376-693196a22379)
 
-
-
-
-
-    
 
 <p align="center">
 
