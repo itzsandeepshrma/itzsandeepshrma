@@ -1,7 +1,6 @@
 ### ɪ'ᴍ ꜱᴀɴᴅᴇᴇᴘ ꜱʜᴀʀᴍᴀ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴꜱᴘɪʀᴇᴅ ʙʏ ᴛʜᴇ ʜᴇᴀʀᴛ ᴀɴᴅ ꜱᴏᴜʟ ᴏꜰ ᴊᴀᴘᴀɴ! 🇯🇵
 ![IMG_20250113_160753](https://github.com/user-attachments/assets/bcbdf858-d9c3-4bac-a071-93beccfde005)
 
-
 ## ꜱᴋɪʟʟꜱ ##
 
 🚀 **ᴅᴇᴠᴇʟᴏᴘᴇʀ** | 💻 **ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ** | 🌱 **ʟᴇᴀʀɴɪɴɢ [ᴘʏᴛʜᴏɴ]**  
@@ -42,7 +41,3 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=itzsandeepshrma&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/itzsandeepshrma)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsandeepshrma&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/itzsandeepshrma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsandeepshrma&layout=compact&theme=chartreuse-dark)](https://github.com/itzsandeepshrma)
-
-
-
-
