@@ -1,10 +1,10 @@
-### ɪ'ᴍ 𝚂αɴɖεερ 𝚂ʜαяɱα ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴꜱᴘɪʀᴇᴅ ʙʏ ᴛʜᴇ ʜᴇᴀʀᴛ ᴀɴᴅ ꜱᴏᴜʟ ᴏꜰ ᴊᴀᴘᴀɴ! 🇯🇵
+### ɪ'ᴍ 𝚂αɴɖεερ 𝚂ʜαяɱα ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴꜱᴘɪʀᴇᴅ ʙʏ ᴛʜᴇ ʜᴇᴀʀᴛ ᴀɴᴅ ꜱᴏᴜʟ ᴏꜰ ᴊᴀᴘᴀɴ 🇯🇵
 ![20250316_115611](https://github.com/user-attachments/assets/bc0c74f3-4c81-4b57-9c57-3a06933c3461)
 
 
 ## ꜱᴋɪʟʟꜱ ##
 
-🚀 **ᴅᴇᴠᴇʟᴏᴘᴇʀ** | 💻 **ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ** | 🌱 **ʟᴇᴀʀɴɪɴɢ [ᴘʏᴛʜᴏɴ]**  
+🚀 **ᴅᴇᴠᴇʟᴏᴘᴇʀ** | 💻 **ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ** | 🌱 **ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ**  
 🧳 **ᴇxᴘʟᴏʀᴇʀ ᴏꜰ ᴄᴏᴅᴇ & ᴄᴜʟᴛᴜʀᴇ**: ꜰᴀꜱᴄɪɴᴀᴛᴇᴅ ʙʏ ᴛʜᴇ ʙʟᴇɴᴅ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀɴᴅ ᴛʀᴀᴅɪᴛɪᴏɴ.  
 🌸 ɪɴꜱᴘɪʀᴇᴅ ʙʏ ᴛʜᴇ **ꜱᴀᴋᴜʀᴀ** – ᴛʜᴇ ᴄʜᴇʀʀʏ ʙʟᴏꜱꜱᴏᴍꜱ ᴛʜᴀᴛ ʀᴇᴍɪɴᴅ ᴍᴇ ᴏꜰ ᴄᴏɴꜱᴛᴀɴᴛ ɢʀᴏᴡᴛʜ ᴀɴᴅ ʀᴇɴᴇᴡᴀʟ.  
 🗡️ ᴀ ᴄᴏᴅᴇʀ ᴡɪᴛʜ ᴛʜᴇ **ꜱᴘɪʀɪᴛ ᴏꜰ ᴛʜᴇ ꜱᴀᴍᴜʀᴀɪ** – ᴀʟᴡᴀʏꜱ ꜱᴛʀɪᴠɪɴɢ ꜰᴏʀ ᴇxᴄᴇʟʟᴇɴᴄᴇ ᴀɴᴅ ᴅɪꜱᴄɪᴘʟɪɴᴇ.  
@@ -17,25 +17,6 @@
 **ᴛʜɪꜱ ʀᴇᴠᴏʟᴜᴛɪᴏɴᴀʀʏ ꜱʏꜱᴛᴇᴍ ᴄᴏᴍʙɪɴᴇꜱ ɪɴꜱᴛᴀɢʀᴀᴍ, ᴡʜᴀᴛꜱᴀᴘᴘ, ᴀɴᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛꜱ ɪɴᴛᴏ ᴏɴᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ, ꜰᴇᴀᴛᴜʀɪɴɢ ᴀᴅᴠᴀɴᴄᴇᴅ, ɴᴇxᴛ-ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ. ᴅᴇꜱɪɢɴᴇᴅ ꜰᴏʀ ᴛʜᴇ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ, ɪᴛ ꜱᴇᴛꜱ ᴀ ʙᴇɴᴄʜᴍᴀʀᴋ 관ꜱ ᴛʜᴇ ʟᴀʀɢᴇꜱᴛ ᴀɴᴅ ꜰᴀꜱᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ ᴏꜰ ɪᴛꜱ ᴋɪɴᴅ.**
 
 **ᴀʟᴡᴀʏꜱ ᴄʜᴀꜱɪɴɢ ᴛʜᴇ ɴᴇxᴛ ʙɪɢ ɪᴅᴇᴀ, ɪɴꜱᴘɪʀᴇᴅ ʙʏ ᴛʜᴇ ʙᴇᴀᴜᴛʏ ᴏꜰ ᴊᴀᴘᴀɴᴇꜱᴇ ᴄᴜʟᴛᴜʀᴇ ᴀɴᴅ ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ɢᴀᴅɢᴇᴛꜱ.**
-
-## ᴅᴇᴠɪᴄᴇ 👨🏻‍💻💻 ##
-**ᴀꜱᴜꜱ ᴠɪᴠᴏʙᴏᴏᴋ 𝟣𝟧**
-**𝟪 ɢʙ ʀᴀᴍ 𝟧𝟣𝟤 ɢʙ ʀᴏᴍ 𝟣𝟤ᴛʜ ɢᴇɴᴇʀᴀᴛɪᴏɴ ɪɴᴛᴇʟ ɪ𝟥**
-
-### 🗡️ **ᴛʜᴇ ᴡᴀʏ ᴏꜰ ᴛʜᴇ ꜱᴀᴍᴜʀᴀɪ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴅᴇᴀᴛʜ**  
-- **ᴍɪʏᴀᴍᴏᴛᴏ ᴍᴜꜱᴀꜱʜɪ**  
-*ᴊᴜꜱᴛ ᴀꜱ ᴀ ꜱᴀᴍᴜʀᴀɪ ɪꜱ ᴘʀᴇᴘᴀʀᴇᴅ ꜰᴏʀ ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴛᴇꜱᴛ, ɪ ꜱᴛʀɪᴠᴇ ᴛᴏ ɪᴍᴘʀᴏᴠᴇ ᴍʏ ꜱᴋɪʟʟꜱ ᴅᴀɪʟʏ ᴀɴᴅ ᴇᴍʙʀᴀᴄᴇ ᴄʜᴀʟʟᴇɴɢᴇꜱ ᴡɪᴛʜ ᴅᴇᴛᴇʀᴍɪɴᴀᴛɪᴏɴ.*
-
----
-
-### 🌸 **ᴇᴠᴇɴ ᴛʜᴇ ʙᴇᴀᴜᴛɪꜰᴜʟ ᴄʜᴇʀʀʏ ʙʟᴏꜱꜱᴏᴍ ꜰᴀʟʟꜱ.**  
-*ʟɪꜰᴇ ᴀɴᴅ ᴄᴏᴅᴇ ᴀʀᴇ ɪɴ ᴄᴏɴꜱᴛᴀɴᴛ ᴍᴏᴛɪᴏɴ, ʙᴜᴛ ᴛʜᴇ ʙᴇᴀᴜᴛʏ ʟɪᴇꜱ ɪɴ ᴛʜᴇ ᴊᴏᴜʀɴᴇʏ ᴀɴᴅ ᴛʜᴇ ɪᴍᴘᴀᴄᴛ ᴡᴇ ᴄʀᴇᴀᴛᴇ ᴀʟᴏɴɢ ᴛʜᴇ ᴡᴀʏ.*
-
----
-
-### 🦇 **ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ᴛᴀᴋᴇ ʀɪꜱᴋꜱ, ʏᴏᴜ ᴄᴀɴ'ᴛ ᴍᴏᴠᴇ ꜰᴏʀᴡᴀʀᴅ.**  
-- **𝚂αɴɖεερ 𝚂ʜαяɱα**  
-*ᴀ ʟᴏᴠᴇ ᴍᴀᴅᴇ ɪɴ ʜᴇᴀᴠᴇɴ, ᴀ ʀᴇᴠᴇɴɢᴇ ʙᴏʀɴ ɪɴ ʜᴇʟʟ. ~ 𝟣𝟫𝟤𝟢*
 
 ---
 
@@ -52,3 +33,14 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=itzsandeepshrma&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/itzsandeepshrma)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsandeepshrma&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/itzsandeepshrma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsandeepshrma&layout=compact&theme=chartreuse-dark)](https://github.com/itzsandeepshrma)
+
+## 📬 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzsandeepshrma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-sharma-0294242b6)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itz_sandeep_sh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_sandeep_shrma)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@itz_sandeep_shrma)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/itz_sandeep_shrma)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itz_sandeep_shrma)
+[![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepshrmadev@gmail.com)
