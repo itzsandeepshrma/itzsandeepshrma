@@ -1,6 +1,5 @@
 ### ɪ'ᴍ 𝚂αɴɖεερ 𝚂ʜαяɱα ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪɴꜱᴘɪʀᴇᴅ ʙʏ ᴛʜᴇ ʜᴇᴀʀᴛ ᴀɴᴅ ꜱᴏᴜʟ ᴏꜰ ᴊᴀᴘᴀɴ 🇯🇵
-![20250316_115611](https://github.com/user-attachments/assets/bc0c74f3-4c81-4b57-9c57-3a06933c3461)
-
+![IMG_20241212_184102](https://github.com/user-attachments/assets/03d26ff7-9c37-4260-97b2-d723dbd4c4ae)
 
 ## ꜱᴋɪʟʟꜱ ##
 
@@ -43,4 +42,5 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@itz_sandeep_shrma)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/itz_sandeep_shrma)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itz_sandeep_shrma)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itz_sandeep_shrma)
 [![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepshrmadev@gmail.com)
