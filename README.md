@@ -1,4 +1,4 @@
-# Hey I'm Sandeep Sharma A Passionate & Spiritual Developer 
+# I'm Sandeep Sharma A Passionate Developer 
 ![IMG20250506203615](https://github.com/user-attachments/assets/d3670a28-8ece-4750-b80a-b60441d43d1e)
 
 
