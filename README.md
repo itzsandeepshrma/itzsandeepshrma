@@ -22,6 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsandeepshrma&layout=compact&theme=chartreuse-dark)](https://github.com/itzsandeepshrma)
 
+---
+
 ## 📬 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzsandeepshrma)
@@ -33,3 +35,5 @@
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itz_sandeep_shrma)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itz_sandeep_shrma)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepshrmadev@gmail.com)
+
+---
