@@ -2,7 +2,8 @@
       ʜɪ ɪ'ᴍ sᴧɴᴅᴇᴇᴘ sʜᴧʀᴍᴧ, ᴀ ᴛᴇᴄʜ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ ꜰʀᴏᴍ ᴅᴇʟʜɪ, ɪɴᴅɪᴀ
 </h2>
 
-![sandeep1](https://github.com/user-attachments/assets/30845885-e5db-439f-b5ef-6a889854581d)
+![sandeep](https://github.com/user-attachments/assets/422dec18-3b65-44d6-a5f5-491da7f88054)
+
 
 
 - ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ɪɴ ᴍʏ **ʙ.ᴄᴏᴍ 𝟥ʀᴅ ʏᴇᴀʀ ᴀᴛ ᴅᴇʟʜɪ ᴜɴɪᴠᴇʀꜱɪᴛʏ**, ᴀɴᴅ ɪ ʜᴀᴠᴇ ᴀ ᴅᴇᴇᴘ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ **ᴛᴇᴄʜɴᴏʟᴏɢʏ, ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ**.
